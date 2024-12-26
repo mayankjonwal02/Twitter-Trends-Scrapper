@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Twitter Trends Scrapper
 
 This is a Python project using FastAPI, a modern web framework for building APIs with Python.
